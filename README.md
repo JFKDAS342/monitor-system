@@ -11,11 +11,11 @@
 # Сборка:
 bash 
 
-# Клонируйте репозиторий
+# Клонирование репозитория
 git clone https://github.com/JFKDAS342/system_monitor.git
 cd system_monitor
 
-# Соберите проект
+# Собрать проект
 make
 
 # Запустите

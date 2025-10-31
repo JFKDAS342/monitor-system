@@ -92,7 +92,7 @@ int fileProc()
         return 1;
     }
 
-    cout << "Outprt of processes: " << endl;
+    cout << "Output of processes: " << endl;
 
     while ((entry = readdir(dir)) != NULL)
     {
